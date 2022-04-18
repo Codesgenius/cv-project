@@ -1,0 +1,15 @@
+.user-detail-con {
+    max-width: 50%;
+    min-width: 50%;
+    width: 50%;
+    padding-bottom: 6px;
+}
+
+.user-label {
+    font-weight: bold;
+    padding-right: 7px;
+}
+
+.user-detail {
+    font-family: Arial, Helvetica, sans-serif;
+}
