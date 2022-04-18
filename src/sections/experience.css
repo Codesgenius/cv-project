@@ -25,7 +25,7 @@
 }
 
 .section-detail>p {
-    list-style: circle;
+    padding-left: 5px;
 }
 
 h2 {
